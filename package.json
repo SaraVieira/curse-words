@@ -1,0 +1,16 @@
+{
+  "name": "curse-words",
+  "version": "1.0.0",
+  "description": "Curse words shared over babel and postcss plugins",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaraVieira/curse-words.git"
+  },
+  "author": "Sara Vieira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SaraVieira/curse-words/issues"
+  },
+  "homepage": "https://github.com/SaraVieira/curse-words#readme"
+}
