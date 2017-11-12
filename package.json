@@ -1,6 +1,6 @@
 {
   "name": "curse-words-common",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Curse words shared over babel and postcss plugins",
   "main": "index.js",
   "repository": {
