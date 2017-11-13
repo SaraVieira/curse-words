@@ -42,6 +42,9 @@ Yes , curse-words was taken 😩
 * scheiße (crap)
 * verdammt (damned)
 * kacke (shit)
+* auhuur (commonly used in Aachen)
+* kruzifix (commonly used in Bavaria)
+* herrgodzagg (commonly used in Swabia)
 
 ### Persian
 * jakesh (Pander)
