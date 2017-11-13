@@ -21,12 +21,6 @@ module.exports = [
   'desgraça',
   'paunocu',
   'feijoada',
-  'jakesh',
-  'daus',
-  'antar',
-  'pofuz',
-  'lanati',
-  'lamasab',
   'chont',
   'fodo',
   'fodri',
@@ -82,6 +76,15 @@ module.exports = [
   'jebotikonjmater',
   'jebotikonjkrvavimkurcemmater',
   'jebemtisvestosezakvakuuhvati',
+
+  // Persian
+  'jakesh',
+  'daus',
+  'antar',
+  'pofuz',
+  'lanati',
+  'lamasab',
+  'kooni',
 
   // Italian
   'cazzo',

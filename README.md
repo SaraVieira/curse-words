@@ -33,13 +33,14 @@ Words shared between babel-plugin-caralho and postcss-caralho
 * verdammt (damned)
 * kacke (shit)
 
-### Persian (These google translation may be wrong)
-* jakesh (Pussy)
-* daus (Sickle)
-* antar (Ether)
-* pofuz (Poufos)
+### Persian
+* jakesh (Pander)
+* daus (Cuckold)
+* antar (Baboons)
+* pofuz (Nerveless)
 * lanati (Damn)
-* lamasab (Lomost)
+* lamasab (Damn)
+* kooni (Catamite)
 
 ### Konkani (Google cannot translate PR anyone ?)
 * chont
