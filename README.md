@@ -123,3 +123,8 @@ Yes , curse-words was taken 😩
 * cazzo
 * fanculo
 * merda
+
+### Turkish
+* allah belani versin (god damn you!)
+* bok ye (eat shit)
+* serefsiz (inglorious)
