@@ -32,6 +32,9 @@ Words shared between babel-plugin-caralho and postcss-caralho
 * scheiße (crap)
 * verdammt (damned)
 * kacke (shit)
+* auhuur (commonly used in Aachen)
+* kruzifix (commonly used in Bavaria)
+* herrgodzagg (commonly used in Swabia)
 
 ### Persian (These google translation may be wrong)
 * jakesh (Pussy)
