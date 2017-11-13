@@ -93,4 +93,9 @@ module.exports = [
   'cazzo',
   'merda',
   'fanculo',
+  
+  // Turkish
+  'allahbelaniversin',
+  'bokye',
+  'serefsiz',
 ];
