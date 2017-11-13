@@ -36,11 +36,11 @@ Words shared between babel-plugin-caralho and postcss-caralho
 ### Persian
 * jakesh (Pander)
 * daus (Cuckold)
-* antar (Baboons, Poo Bag)
+* antar (Baboons)
 * pofuz (Nerveless)
 * lanati (Damn)
 * lamasab (Damn)
-* kooni (Catamite, Anal sex lower)
+* kooni (Catamite)
 
 ### Konkani (Google cannot translate PR anyone ?)
 * chont
