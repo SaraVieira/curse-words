@@ -1,6 +1,16 @@
 # curse-words
 Words shared between babel-plugin-caralho and postcss-caralho
 
+## Install
+
+```
+npm i curse-words-common
+
+yarn add curse-words-common
+```
+
+Yes , curse-words was taken 😩
+
 ## Words
 
 ### Portuguese
