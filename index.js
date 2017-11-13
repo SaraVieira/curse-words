@@ -81,5 +81,10 @@ module.exports = [
   'jebotipasmater',
   'jebotikonjmater',
   'jebotikonjkrvavimkurcemmater',
-  'jebemtisvestosezakvakuuhvati'
+  'jebemtisvestosezakvakuuhvati',
+
+  // Italian
+  'cazzo',
+  'merda',
+  'fanculo',
 ];
