@@ -18,6 +18,8 @@ module.exports = [
   'auhuur',
   'kruzifix',
   'herrgodzagg',
+  'hurensohn',
+  'miststück',
   'filhodaputa',
   'demonio',
   'satanas',
