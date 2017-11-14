@@ -63,10 +63,10 @@ Yes , curse-words was taken 😩
 * fodri
 * zov
 
-### Hindi (Googles translations are horrible PR anyone ?)
-* lund
-* lavda
-* choot
+### Hindi
+* lund (penis)
+* lavda (dickhead)
+* choot (cunt)
 
 ### Russian
 * блять (fuck)
