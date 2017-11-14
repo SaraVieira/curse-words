@@ -125,9 +125,9 @@ Yes , curse-words was taken 😩
 * jebemtisvestosezakvakuuhvati ("jebem ti sve sto se za kvaku uhvati" i fuck your everyone who used your door knob)
 
 ### Italian
-* cazzo
-* fanculo
-* merda
+* cazzo (dick)
+* fanculo (fuck)
+* merda (shit)
 
 ### Turkish
 * allah belani versin (god damn you!)
