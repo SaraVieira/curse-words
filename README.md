@@ -64,9 +64,9 @@ Yes , curse-words was taken 😩
 * zov
 
 ### Hindi (Googles translations are horrible PR anyone ?)
-* lund
-* lavda
-* choot
+* lund (penis)
+* lavda (dickhead)
+* choot (cunt)
 
 ### Russian
 * блять (fuck)
