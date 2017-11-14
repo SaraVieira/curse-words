@@ -42,6 +42,8 @@ Yes , curse-words was taken 😩
 * scheiße (crap)
 * verdammt (damned)
 * kacke (shit)
+* miststück (piece of shit)
+* hurensohn (son of a bitch)
 * auhuur (commonly used in Aachen)
 * kruzifix (commonly used in Bavaria)
 * herrgodzagg (commonly used in Swabia)
