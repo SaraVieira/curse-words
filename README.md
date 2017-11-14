@@ -63,7 +63,7 @@ Yes , curse-words was taken 😩
 * fodri
 * zov
 
-### Hindi (Googles translations are horrible PR anyone ?)
+### Hindi
 * lund (penis)
 * lavda (dickhead)
 * choot (cunt)
