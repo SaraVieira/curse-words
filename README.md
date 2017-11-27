@@ -78,7 +78,7 @@ Yes , curse-words was taken 😩
 * скемнебывает (It happens to everyone)
 * упс (oops)
 * ебанина (fucker)
-* какаятоебанина (a kind of banana)
+* какаятоебанина (a kind of fucker `какая-то ебанина`)
 
 ### Spanish
 * joder (fuck)
