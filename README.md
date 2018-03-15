@@ -67,6 +67,7 @@ Yes , curse-words was taken 😩
 * lund (penis)
 * lavda (dickhead)
 * choot (cunt)
+* nunu (limp penis)
 
 ### Russian
 * блять (fuck)
