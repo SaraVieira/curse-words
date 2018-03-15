@@ -33,6 +33,7 @@ module.exports = [
   'lund',
   'lavda',
   'choot',
+  'nunu',
   'блять',
   'сука',
   'тварь',
@@ -95,7 +96,7 @@ module.exports = [
   'cazzo',
   'merda',
   'fanculo',
-  
+
   // Turkish
   'allahbelaniversin',
   'bokye',
