@@ -134,3 +134,9 @@ Yes , curse-words was taken 😩
 * allah belani versin (god damn you!)
 * bok ye (eat shit)
 * serefsiz (inglorious)
+
+### Dutch
+* verdomme (damn you)
+* godverdomme (god damn you)
+* kak (shit)
+* stront (also shit)
