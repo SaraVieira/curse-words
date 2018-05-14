@@ -101,4 +101,10 @@ module.exports = [
   'allahbelaniversin',
   'bokye',
   'serefsiz',
+  
+  // Dutch
+  'verdomme',
+  'godverdomme',
+  'kak',
+  'stront',
 ];
