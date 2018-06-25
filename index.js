@@ -107,4 +107,11 @@ module.exports = [
   'godverdomme',
   'kak',
   'stront',
+  
+  // Kazakh
+  'щещенамы',
+  'щщс',
+  'қотақбас',
+  'қотақ',
+  'сігейін',
 ];
