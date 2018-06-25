@@ -140,3 +140,10 @@ Yes , curse-words was taken 😩
 * godverdomme (god damn you)
 * kak (shit)
 * stront (also shit)
+
+### Kazakh
+* щещенамы (mother's pussy)
+* щщс (short for mother, used in curse context)
+* қотақбас (dick head)
+* қотақ (dick)
+* сігейін (fuck)
