@@ -147,3 +147,12 @@ Yes , curse-words was taken 😩
 * қотақбас (dick head)
 * қотақ (dick)
 * сігейін (fuck)
+
+### Nigerian
+* Ohu ezi (Pig cunt)
+* ewu (goat)
+* mumu (fool)
+* amu (dick)
+* wawa (fool)
+* maga (fool)
+* Anuofia (chicken)

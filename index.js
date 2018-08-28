@@ -114,4 +114,13 @@ module.exports = [
   'қотақбас',
   'қотақ',
   'сігейін',
+
+  // Nigerian
+  'Ohu ezi',
+  'ewu',
+  'mumu',
+  'wawa',
+  'Anuofia',
+  'amu',
+  'maga'
 ];
