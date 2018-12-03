@@ -156,3 +156,13 @@ Yes , curse-words was taken 😩
 * wawa (fool)
 * maga (fool)
 * Anuofia (chicken)
+
+### Bulgarian
+* ебиго / ebigo (fuck it)
+* ебисе / ebise (fuck you)
+* ебаси / ebasi (fuck)
+* даеба / daeba (to fuck)
+* дасиебе / dasiebe (to fuck with it)
+* лайно / laino (shit)
+* мамамудееба / mamamudeeba (fuck its mother)
+* майкати / maikati (your mom)
