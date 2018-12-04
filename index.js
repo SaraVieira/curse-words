@@ -122,5 +122,25 @@ module.exports = [
   'maga',
   'mumu',
   'Ohu ezi',
-  'wawa'
+  'wawa',
+
+  // Bulgarian
+  'ебиго',
+  'ебисе',
+  'ебаси',
+  'даеба',
+  'дасиебе',
+  'лайно',
+  'мамамудееба',
+  'майкати',
+
+  // Bulgarian in Latin because who the hell codes in Cyrillic
+  'ebigo',
+  'ebise',
+  'ebasi',
+  'daeba',
+  'dasiebe',
+  'laino',
+  'mamamudeeba',
+  'maikati'
 ];
