@@ -142,5 +142,16 @@ module.exports = [
   'dasiebe',
   'laino',
   'mamamudeeba',
-  'maikati'
+  'maikati',
+
+  // Jamaican (Patois)
+  'bumbo',
+  'bumboclaat',
+  'bloodclaat',
+  'bumbohole',
+  'raas',
+  'raasclaat',
+  'pussy',
+  'pussyclaat',
+  'pussyhole'
 ];
