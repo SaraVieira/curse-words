@@ -165,6 +165,8 @@ Yes , curse-words was taken 😩
 * cazzo (dick)
 * fanculo (fuck)
 * merda (shit)
+* stronzo (asshole)
+* testa di cazzo (dickhead)
 
 ### Turkish
 * allah belani versin (
