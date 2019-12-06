@@ -192,4 +192,15 @@ module.exports = [
   'pussy',
   'pussyclaat',
   'pussyhole'
+
+  //Romanian
+  'pula',
+  'pizda',
+  'morti',
+  'raniti',
+  'coliva',
+  'viermi',
+  'dumnezei',
+  'cristosi'
+  '
 ];
