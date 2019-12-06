@@ -202,5 +202,4 @@ module.exports = [
   'viermi',
   'dumnezei',
   'cristosi'
-  '
 ];
