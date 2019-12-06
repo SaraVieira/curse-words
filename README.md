@@ -216,3 +216,12 @@ damn you!)
 * pussy (vagina, a wimp/coward)
 * pussyclaat (vagina cloth)
 * pussyhole (a wimp/coward, an asshole)
+
+## Romania
+* 'pula',(dick)
+* 'pizda',(pussy)
+* 'morti', (deads)
+* 'raniti', (wounded)
+* 'coliva' (coookie that gets serverd when someone dies)
+* 'dumnezei',(goods)
+* 'cristosi'  (jesus)
