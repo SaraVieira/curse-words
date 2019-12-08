@@ -165,6 +165,8 @@ Yes , curse-words was taken 😩
 * cazzo (dick)
 * fanculo (fuck)
 * merda (shit)
+* stronzo (asshole)
+* testa di cazzo (dickhead)
 
 ### Turkish
 * allah belani versin (
@@ -231,3 +233,13 @@ damn you!)
 * rövhål (asshole)
 * satan (satan)
 * skit (shit)
+
+## Romania
+* pula (dick)
+* pizda (pussy)
+* morti (deads)
+* raniti (wounded)
+* coliva (coookie that gets serverd when someone dies)
+* dumnezei (goods)
+* cristosi (jesus)
+

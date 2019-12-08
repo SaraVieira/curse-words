@@ -209,4 +209,14 @@ module.exports = [
   'rövhål',
   'satan',
   'skit'
+
+  //Romanian
+  'pula',
+  'pizda',
+  'morti',
+  'raniti',
+  'coliva',
+  'viermi',
+  'dumnezei',
+  'cristosi'
 ];
