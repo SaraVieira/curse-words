@@ -217,6 +217,23 @@ damn you!)
 * pussyclaat (vagina cloth)
 * pussyhole (a wimp/coward, an asshole)
 
+### Swedish
+* bajs (shit)
+* dinmamma (your mom)
+* fan (damn)
+* fitta (cunt)
+* förbannat (damn)
+* helvete (hell)
+* jaggerupp (i give up)
+* jagorkarinte (i give up)
+* jävlar (damn/fuck)
+* jävlaskit (fucking shit)
+* kuk (dick)
+* meh (meh)
+* rövhål (asshole)
+* satan (satan)
+* skit (shit)
+
 ## Romania
 * pula (dick)
 * pizda (pussy)
@@ -225,3 +242,4 @@ damn you!)
 * coliva (coookie that gets serverd when someone dies)
 * dumnezei (goods)
 * cristosi (jesus)
+

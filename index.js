@@ -191,7 +191,24 @@ module.exports = [
   'raasclaat',
   'pussy',
   'pussyclaat',
-  'pussyhole'
+  'pussyhole',
+
+  // Swedish
+  'bajs',
+  'dinmamma',
+  'fan',
+  'fitta',
+  'förbannat',
+  'helvete',
+  'jaggerupp',
+  'jagorkarinte',
+  'jävlar',
+  'jävlaskit',
+  'kuk',
+  'meh',
+  'rövhål',
+  'satan',
+  'skit'
 
   //Romanian
   'pula',
